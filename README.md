@@ -21,3 +21,6 @@ It can:
   #define Version "FileBrowser V1.0 July 17, 2024" (as in the example index.html)
 
 I am but an amateur programmer. Improvements? let me know.
+
+
+![Screenshot](https://github.com/user-attachments/assets/f977e08a-c058-4bb8-8762-a1c71ac6ae90)
