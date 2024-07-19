@@ -2,10 +2,10 @@
 
 Searching for a solution to list files/dowmload/upload/rename and more, I came up empty.
 Found bits & pieces, so here is my template. Just add it to your directory. Make a link to /files in your index.html.
-examine the index.html in the list.
+examine the index.html for details.
 
 Plug in .ino for ESP8266
-File adminnstration of LittleFS files in your project
+File administration of LittleFS files in your project
 
 It can:
   - List files
