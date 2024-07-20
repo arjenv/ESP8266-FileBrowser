@@ -1,11 +1,10 @@
 # ESP8266-FileBrowser
 
+This is a plug-in so you can do file administration of your LilleFS Flash content ESP8266.
+
 Searching for a solution to list files/download/upload/rename and more, I came up empty.
 Found bits & pieces, so here is my template. Just add it to your directory. Make a link to /files in your index.html.
 examine the index.html for details.
-
-Plug in .ino for ESP8266
-File administration of LittleFS files in your project
 
 It can:
   - List files
