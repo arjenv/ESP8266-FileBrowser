@@ -17,7 +17,7 @@ It can:
   - download directories as TAR
 
   See the index.html for the libraries used
-  do not forget to add a #define for your convenience, e.g.
+  do not forget to add a #define Version "...." for your convenience, e.g.
   #define Version "FileBrowser V1.0 July 17, 2024" (as in the example index.html)
 
 I am but an amateur programmer. Improvements? let me know.
