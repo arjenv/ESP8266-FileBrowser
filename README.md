@@ -1,6 +1,6 @@
 # ESP8266-FileBrowser
 
-Searching for a solution to list files/dowmload/upload/rename and more, I came up empty.
+Searching for a solution to list files/download/upload/rename and more, I came up empty.
 Found bits & pieces, so here is my template. Just add it to your directory. Make a link to /files in your index.html.
 examine the index.html for details.
 
