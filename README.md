@@ -1,4 +1,4 @@
-# ESP8266-FileBrowser
+# ESP8266-LittlFS-FileBrowser
 
 This is a plug-in so you can do file administration of your LilleFS Flash content ESP8266.
 
